@@ -1,0 +1,35 @@
+body {
+  background-color: pink;
+  font-size: 50px;
+  color: purple;
+  font-style: oblique;
+  text-align: center;
+}
+
+h1.flashy {
+  background-color: teal;
+  color: red;
+  font-size: 40px;
+  text-align: center;
+  font-style: italic;
+}
+
+h1.best {
+  color: magenta;
+  font-family: fantasy;
+}
+
+h2 {
+  color: blue;
+  font-size: 40px;
+  border-color: purple;
+  border-width: 50px;
+  text-align: center;
+}
+
+p {
+  color: teal;
+  font-size: 40px;
+  font-style: italic;
+  text-align: center;
+}
